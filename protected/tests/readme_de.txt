@@ -41,4 +41,4 @@ Nachfolgend ein paar Beispiele:
 
 *DISCLAIMER* Die aufgezeigten Testsbeispiele decken lediglich einen zur Demonstration
 hilfreichen Teil der Bloganwendung ab. Eine komplette Testabdeckung wuerde den Rahmen dieser
-Demonstration sprengen.
+Vorfuehrung sprengen.
